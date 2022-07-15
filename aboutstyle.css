@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    height: 100px;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+    color: black;
+    font-style: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(./images/bg.png);
+    letter-spacing: 2px;
+    color: rgb(113, 163, 113);
+}
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(110, 133, 133);
+    padding-left: 100px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+p {
+    font-family: 'crimson text', serif;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    color: rgb(141, 189, 189);
+    padding-left: 200px;
+    font-size: 20px;
+}
+
+button {
+
+    /* padding: 20px; */
+    border-radius: 15px;
+    height: 35px;
+    width: 85px;
+    margin-top: 40px;
+    margin-left: 100px;
+    border: none;
+    /* margin-left: 900px; */
+
+}

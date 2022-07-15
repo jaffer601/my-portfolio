@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    height: 100px;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+    color: black;
+    font-style: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(./images/bg.png);
+    letter-spacing: 2px;
+    color: rgb(0, 148, 0);
+}
+h3{
+font-size:30px;
+padding: 10px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: lighter;
+color: rgb(71, 135, 190);
+}
+.one{
+    list-style-type: circle;
+    padding-left:60px ;
+    text-align: justify;
+
+}
+button{
+
+   border-radius: 15px; 
+   height: 35px;
+   width: 85px;
+   margin-top: 40px;
+   margin-left: 100px;
+   border: none;
+
+}
